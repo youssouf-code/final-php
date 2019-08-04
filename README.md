@@ -1,4 +1,3 @@
-Every time you add new class don't forget to do `composer dump-autoload`
 # CMS created on class
 
 Make sure to create new  database and import `0918tasks.sql`
@@ -40,3 +39,4 @@ All components should be placed in
 `resources/assets/js/components` and registered in `resources/assets/js/app.js`
 
 ## Notes
+Every time you add new class don't forget to do `composer dump-autoload`
