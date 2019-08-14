@@ -31,4 +31,8 @@ class PagesController {
     {
         return view('admin');
     }
+    public function login()
+    {
+        return view('login');
+    }
 }

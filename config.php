@@ -4,7 +4,7 @@ return [
     "database" => [
         "driver" => "mysql",
         "host" => "localhost",
-        "dbname" => "cms",
+        "dbname" => "greenforest_db",
         "user" => "root",
         "password" => "",
         "options" => [

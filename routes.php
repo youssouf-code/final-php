@@ -4,6 +4,7 @@ $router->get('about', 'PagesController@about');
 $router->get('about/culture', 'PagesController@aboutCulture');
 $router->get('contact', 'PagesController@contact');
 $router->get('admin', 'PagesController@admin');
+$router->get('login', 'PagesController@login');
 
 $router->get('api/tasks', 'TasksController@apiGet');
 

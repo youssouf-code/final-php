@@ -3,9 +3,9 @@
 
 
 
-<?php require "partials/contact.php" ?>
 
 
+<?php require "partials/login.php" ?>
 
    <!--
     <h1>Contact us!</h1>
@@ -15,4 +15,5 @@
         <button type="submit">Submit</button>
     </form>
 -->
-<?php require "partials/footer.php" ?>
+ 
+

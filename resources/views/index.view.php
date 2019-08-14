@@ -1,26 +1,30 @@
 <?php require "partials/header.php" ?>
 
+
+
+
+
 <?php require "partials/slider.php" ?>
 
-<h1> home page</h1>
 
 
 
 
+<?php require "partials/about.php" ?>
+
+
+
+<div class="container ">
+
+<?php require "partials/contact.php" ?>
+
+
+</div>
 
 
 
 
-
-
-
-
-
-
-
-
-
-<!-- ////////////// original case//////////////
+<!-- ////////////// original case////////////// 
 <ul>
     <?php foreach ($tasks as $task): ?>
         <?php if ($task->completed): ?>
